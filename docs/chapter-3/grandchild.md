@@ -6,4 +6,4 @@ nav_order: 1
 ---
 
 # Chapter 3 - Child
-I'm a child of Chapter 3
+I'm a child of Chapter 3.

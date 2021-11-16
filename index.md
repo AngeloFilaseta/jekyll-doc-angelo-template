@@ -6,4 +6,4 @@ nav_order: 1
 
 # Project Title
 
-Project description
+Project description.
